@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# INT260 - Data Classification with Python SDK and SAP AI Business
 
 ## Description
 
