@@ -96,7 +96,7 @@ and select "Save As". Save the file to disk.
 
 ![Screenshot Save As](images/save_as.png)
 
-As an *alternative*, you can download from the command line:
+**As an alternative**, you can download from the command line:
 
 ```shell script
 wget \
