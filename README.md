@@ -42,16 +42,56 @@ There, you can upload this notebook file and execute it.
 ### Other options for Jupyter
 
 If you cannot run Jupyter locally, there are several offerings available on the
-internet. You can use any Jupiter Notebook environment of your choice. 
+internet. You can use any Jupiter Notebook environment of your choice.
 
-<!-- 
-TODO: Add mybinder.org link and appropriate disclaimer
--->
+#### MyBinder.org
+
+The `mybinder.org` service does not require prior registration. 
+To launch the notebook, follow
+[this link](https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb).
+
+In our experience, it takes up to five minutes to launch the notebook. 
+
+Sessions on this free service can be terminated after a [brief period
+of inactivity](https://mybinder.readthedocs.io/en/latest/faq.html#how-long-will-my-binder-session-last).
+It is best not to leave the browser window for long periods of time.
+
+For the same reason, make sure to download your notebook once you are done with the
+workshop. The `mybinder.org service` will not keep a copy once your session expires.
+
+If the main link above does not work for you and the notebook is not launching
+even after five minutes, you can directly try one of the [following servers](https://binderhub.readthedocs.io/en/latest/federation/federation.html):
+
+* [Binderhub](https://gke.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
+* [OVH](https://ovh.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
+* [GESIS](https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
+
+Using the mybinder.org service is completely voluntary and you are responsible
+for any information that you may add to mybinder.org. The reference to the mybinder.org
+service is not an endorsement of the mybinder.org service.
+
+#### Google Colab
+
+To launch the notebook in Google Colab,
+[click here](https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
+
+Note that Google Colab requires you to log in. You will be subject
+to the terms and conditions and to the privacy policy of Google Colab.
+
+Using the Google Colab service is completely voluntary and you are responsible
+for any information that you may add to Google Colab. The reference to Google Colab in
+this document is not an endorsement of Google Colab. 
 
 ## Exercises
 
-Start the exercises
-[here](exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
+Start the exercises by downloading the
+[Jupyter notebook from Github](https://github.com/SAP-samples/teched2020-INT260/blob/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
+
+Right-click [this direct link](https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb)
+and select "Save As". Save the file to disk.
+
+
+
 
 ## How to obtain support
 
