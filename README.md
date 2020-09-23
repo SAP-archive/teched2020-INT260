@@ -84,14 +84,49 @@ this document is not an endorsement of Google Colab.
 
 ## Exercises
 
+*If you followed one of the links to mybinder.org or to Google Colab, the notebook
+will open automatically. You only need to follow the steps below if you have your
+own Jupyter instance, such as when running with Docker.*
+
 Start the exercises by downloading the
 [Jupyter notebook from Github](https://github.com/SAP-samples/teched2020-INT260/blob/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
 
 Right-click [this direct link](https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb)
 and select "Save As". Save the file to disk.
 
+![Screenshot Save As](images/save_as.png)
 
+As an *alternative*, you can download from the command line:
 
+```shell script
+wget \
+  -O teched2020-INT260_Data_Attribute_Recommendation.ipynb \
+  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb
+```
+
+If you receive a "command not found" error (i.e. on Windows), try curl:
+
+```shell script
+curl \
+  -L \
+  -o teched2020-INT260_Data_Attribute_Recommendation.ipynb \
+  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb
+```
+
+Inside of your Jupyter environment, click the "Upload" button.
+
+![Screenshot Upload 1](images/upload-1.png)
+
+In the file selection dialog, select the notebook file. Double-check that the
+file name ends with `.ipynb`. If the file has a different extension, please change
+the file extension to `.ipynb`. Then click the second "Upload" button:
+
+![Screenshot Upload 2](images/upload-2.png)
+
+After the file is uploaded, simply click the file name in the file listing to start the
+notebook:
+
+![Screenshot Upload 3](images/upload-3.png)
 
 ## How to obtain support
 
