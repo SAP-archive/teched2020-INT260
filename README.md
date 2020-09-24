@@ -100,9 +100,10 @@ Please proceed to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebo
 
 ### Executing the Jupyter Notebook
 
-You can run [Jupter on your computer using Docker](#Running-Jupyter-in-Docker)
-or you can explore
-[other options via third-party offerings](#Other-options-for-Jupyter).
+You can:
+
+* run [Jupter on your computer using Docker](#Running-Jupyter-in-Docker)
+* explore [other options via third-party offerings](#Other-options-for-Jupyter).
 
 #### Running Jupyter in Docker
 
