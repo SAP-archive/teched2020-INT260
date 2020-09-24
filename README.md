@@ -15,15 +15,85 @@ for the Data Attribute Recommendation service.
 **You will need** to have a valid SAP Cloud Platform trial account in the
 **Europe (Frankfurt) - AWS** region
 
-See [this tutorial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
-to learn how to create a Trial account. Note that regions other than
-**Europe (Frankfurt) - AWS** are currently not supported.
-
 **You will need** an environment where you can run Python code.
 This workshop is available as a Jupyter notebook. We recommend that you use a Jupyter
 environment to load the notebook and execute the exercises.
 
-### Running Jupyter in Docker
+### SAP Cloud Platform trial account
+
+#### If you have no trial account
+
+See the tutorial
+["Get a Free Trial Account on SAP Cloud Platform"](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+to learn how to create a Trial account.
+
+Note that regions other than
+**Europe (Frankfurt) - AWS** are currently not supported. For this reason, make sure
+to select the correct region while creating your trial account:
+
+![SCP Trial Select Region](images/scp_trial_select_region.png)
+
+Once you have successfully created your trial account, please skip
+to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebook).
+
+#### You already have a trial account
+
+If you have already created a trial account in the past, we need to
+ensure that have a subaccount in the **Europe (Frankfurt) - AWS**
+region. To confirm this, log in to your [Trial Account](https://cockpit.eu10.hana.ondemand.com/trial/)
+and inspect the list of subaccounts.
+
+You should have one subaccount where the **region** field is listed as
+**Europe (Frankfurt) - AWS** as shown below:
+
+![SCP Subaccount Europe (Frankfurt) -  AWS](images/scp_subaccount_frankfurt.png)
+
+If you have a subaccount in the correct region, please skip
+to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebook).
+
+However, if your subaccount has a different region, please create a new subaccount
+by clicking the "New Subaccount" button.
+
+![SCP create new subaccount](images/scp_create_new_subaccount.png)
+
+In the resulting popup, enter a **Display Name**,
+select the **Europe (Frankfurt) - AWS** region and enter
+a valid **subdomain** name. The name should be unique, so it is OK
+to be creative here. Once you entered all details, click the
+"create" button.
+
+![SCP new subaccount details](images/scp_new_subaccount_details.png)
+
+Once the new subaccount is created, click on the name to enter the
+subaccount.
+
+![SCP enter new subaccount](images/scp_select_new_subaccount.png)
+
+Click the "Enable Cloud Foundry" button.
+
+![SCP enable Cloud Foundry](images/scp_enable_cloud_foundry.png)
+
+Accept the default org name:
+
+![SCP Cloud Foundry org name](images/scp_cloud_foundry_org_name.png)
+
+Once Cloud Foundry is available, click the "Create Space" button:
+
+![SCP Create Space](images/scp_create_space.png)
+
+Enter a name for the new Cloud Foundry space. "Trial" is a good choice.
+Then, click "Create".
+
+![SCP Create Space Details](images/scp_create_space_details.png)
+
+Once the space is created successfully, navigate back to your [main
+trial global account](https://cockpit.eu10.hana.ondemand.com/trial/).
+
+Please proceed to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebook).
+
+### Executing the Jupyter Notebook
+
+#### Running Jupyter in Docker
 
 There are several ways to run a Jupyter notebook.
 Docker is a great way to quickly get an environment up and running.
@@ -36,15 +106,17 @@ To quickly bring up a Jupyter server inside Docker,
 $ docker run -p 8888:8888 jupyter/scipy-notebook:latest
 ```
 
+![docker run](images/docker_run.png)
+
 This will print an URL which will point you to your running Jupyter environment.
 There, you can upload this notebook file and execute it.
 
-### Other options for Jupyter
+#### Other options for Jupyter
 
 If you cannot run Jupyter locally, there are several offerings available on the
 internet. You can use any Jupiter Notebook environment of your choice.
 
-#### MyBinder.org
+##### MyBinder.org
 
 The `mybinder.org` service does not require prior registration. 
 To launch the notebook, follow
@@ -70,7 +142,7 @@ Using the mybinder.org service is completely voluntary and you are responsible
 for any information that you may add to mybinder.org. The reference to the mybinder.org
 service is not an endorsement of the mybinder.org service.
 
-#### Google Colab
+##### Google Colab
 
 To launch the notebook in Google Colab,
 [click here](https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
