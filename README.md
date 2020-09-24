@@ -67,7 +67,7 @@ In the resulting popup, enter a **Display Name**,
 select the **Europe (Frankfurt) - AWS** region and enter
 a valid **subdomain** name. The name should be unique, so it is OK
 to be creative here. Once you entered all details, click the
-"create" button.
+"Create" button.
 
 ![SCP new subaccount details](images/scp_new_subaccount_details.png)
 
@@ -80,7 +80,7 @@ Click the "Enable Cloud Foundry" button.
 
 ![SCP enable Cloud Foundry](images/scp_enable_cloud_foundry.png)
 
-Accept the default org name:
+In the resulting popup, accept the default org name and click the "Create" button.
 
 ![SCP Cloud Foundry org name](images/scp_cloud_foundry_org_name.png)
 
@@ -88,7 +88,7 @@ Once Cloud Foundry is available, click the "Create Space" button:
 
 ![SCP Create Space](images/scp_create_space.png)
 
-Enter a name for the new Cloud Foundry space. "Trial" is a good choice.
+Enter a name for the new Cloud Foundry space. "trial" is a good choice.
 Then, click "Create".
 
 ![SCP Create Space Details](images/scp_create_space_details.png)
