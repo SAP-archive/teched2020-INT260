@@ -121,7 +121,8 @@ $ docker run -p 8888:8888 jupyter/scipy-notebook:latest
 ![docker run](images/docker_run.png)
 
 This will print an URL which will point you to your running Jupyter environment.
-There, you can upload this notebook file and execute it.
+There, you can upload this notebook file and execute it. You can find instructions
+to upload the notebook in the [Exercises](#exercises) section.
 
 #### Other options for Jupyter
 
