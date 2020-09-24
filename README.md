@@ -56,6 +56,8 @@ You should have one subaccount where the **region** field is listed as
 If you have a subaccount in the correct region, please skip
 to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebook).
 
+##### Subaccount in region other than Frankfurt - AWS
+
 However, if your subaccount has a different region, please create a new subaccount
 by clicking the "New Subaccount" button.
 
