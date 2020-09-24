@@ -21,6 +21,11 @@ environment to load the notebook and execute the exercises.
 
 ### SAP Cloud Platform trial account
 
+If you have no trial account,
+[you will need to create one first](#If-you-have-no-trial-account).
+If you already have a trial account,
+[please check if it is setup correctly](#you-already-have-a-trial-account).
+
 #### If you have no trial account
 
 See the tutorial
@@ -92,6 +97,10 @@ trial global account](https://cockpit.eu10.hana.ondemand.com/trial/).
 Please proceed to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebook).
 
 ### Executing the Jupyter Notebook
+
+You can run [Jupter on your computer using Docker](#Running-Jupyter-in-Docker)
+or you can explore
+[other options via third-party offerings](#Other-options-for-Jupyter).
 
 #### Running Jupyter in Docker
 
