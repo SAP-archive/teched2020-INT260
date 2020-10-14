@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called NT260 - Data Classification with Python SDK and SAP AI Business Services.
+This repository contains the material for the SAP TechEd 2020 session called INT260 - Data Classification with Python SDK and SAP AI Business Services.
 
 ## Overview
 
@@ -21,18 +21,6 @@ This session introduces attendees to the Python Software Development Kit for uti
     - [Exercise 2.1 - Provision instance for Service Ticket Intelligence](exercises/ex2-STI/ex2.1)
     - [Exercise 2.2 - Explore and hands-on with Service Ticket Intelligences' classification scenario](exercises/ex2-STI/ex2.2)
 
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 

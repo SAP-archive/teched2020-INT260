@@ -1,13 +1,10 @@
-# INT260 - Data Classification with Python SDK and SAP AI Business
+# INT260 - Data Classification with Python SDK and SAP AI Business Services
 
-## Description
-
-This repository contains the material for the SAP TechEd 2020 session called
-INT260 - Data Classification with Python SDK and SAP AI Business
+## Exercise 2
 
 ## Overview
 
-This session introduces attendees to the Python Software Development Kit
+This exercise introduces attendees to the Python Software Development Kit
 for the Data Attribute Recommendation service.
 
 ## Requirements
@@ -133,7 +130,7 @@ internet. You can use any Jupiter Notebook environment of your choice.
 
 The `mybinder.org` service does not require prior registration. 
 To launch the notebook, follow
-[this link](https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb).
+[this link](https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb).
 
 In our experience, it takes up to five minutes to launch the notebook. 
 
@@ -158,7 +155,7 @@ service is not an endorsement of the mybinder.org service.
 ##### Google Colab
 
 To launch the notebook in Google Colab,
-[click here](https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
+[click here](https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
 
 Note that Google Colab requires you to log in. You will be subject
 to the terms and conditions and to the privacy policy of Google Colab.
@@ -174,9 +171,9 @@ will open automatically. You only need to follow the steps below if you have you
 own Jupyter instance, such as when running with Docker.*
 
 Start the exercises by downloading the
-[Jupyter notebook from Github](https://github.com/SAP-samples/teched2020-INT260/blob/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
+[Jupyter notebook from Github](https://github.com/SAP-samples/teched2020-INT260/blob/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
 
-Right-click [this direct link](https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb)
+Right-click [this direct link](https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb)
 and select "Save As". Save the file to disk.
 
 ![Screenshot Save As](images/save_as.png)
@@ -186,7 +183,7 @@ and select "Save As". Save the file to disk.
 ```shell script
 wget \
   -O teched2020-INT260_Data_Attribute_Recommendation.ipynb \
-  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb
+  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
 ```
 
 If you receive a "command not found" error (i.e. on Windows), try curl:
@@ -195,7 +192,7 @@ If you receive a "command not found" error (i.e. on Windows), try curl:
 curl \
   -L \
   -o teched2020-INT260_Data_Attribute_Recommendation.ipynb \
-  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/teched2020-INT260_Data_Attribute_Recommendation.ipynb
+  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
 ```
 
 Inside of your Jupyter environment, click the "Upload" button.
