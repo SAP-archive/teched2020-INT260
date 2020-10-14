@@ -16,12 +16,10 @@ This session introduces attendees to the Python Software Development Kit for uti
 
 ## Exercises
 
-- [Exercise 1 - Data Attribute Recommendation](exercises/Exercise%201%20-%20Data%20Attribute%20Recommendation)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/Exercise 2 - Service Ticket Intelligence)
-    - [Exercise 2.1 - Provision instance for Service Ticket Intelligence](exercises/Exercise%202.1#exercise-21---provision-instance-for-service-ticket-intelligence)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 1 - Data Attribute Recommendation](exercises/ex1-DAR)
+- [Exercise 2 - Second Exercise Description](exercises/ex2-STI)
+    - [Exercise 2.1 - Provision instance for Service Ticket Intelligence](exercises/ex2-STI/ex2.1)
+    - [Exercise 2.2 - Explore and hands-on with Service Ticket Intelligences' classification scenario](exercises/ex2-STI/ex2.2)
 
 
 **OR** Link to the PDF document stored in your github repo for example...
