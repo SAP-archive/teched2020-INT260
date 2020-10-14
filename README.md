@@ -10,18 +10,13 @@ This session introduces attendees to the Python Software Development Kit for uti
 
 ## Requirements
 
-**You will need** to have a valid SAP Cloud Platform trial account in the
-**Europe (Frankfurt) - AWS** region
+**You will need** to have a valid SAP Cloud Platform trial account in the **Europe (Frankfurt) - AWS** region
 
-**You will need** an environment where you can run Python code.
-This workshop is available as a Jupyter notebook. We recommend that you use a Jupyter
-environment to load the notebook and execute the exercises.
+**You will need** an environment where you can run Python code. This workshop is available as a Jupyter notebook. We recommend that you use a Jupyter environment to load the notebook and execute the exercises.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Exercise 1 - Data Attribute Recommendation](exercises/Exercise 1 - Data Attribute Recommendation)
+- [Exercise 1 - Data Attribute Recommendation](exercises/Exercise%201%20-%20Data%20Attribute%20Recommendation)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Second Exercise Description](exercises/Exercise 2 - Service Ticket Intelligence)
