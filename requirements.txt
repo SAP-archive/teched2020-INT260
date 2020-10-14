@@ -1,0 +1,3 @@
+# This file is here to pre-install dependencies inside the mybinder environment.
+# Please do not remove it.
+pandas==1.1.2
