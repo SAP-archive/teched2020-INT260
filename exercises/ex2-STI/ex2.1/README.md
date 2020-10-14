@@ -7,7 +7,7 @@ In this part of the exercise, we will see how to create a service instance of Se
 ### Access SAP Cloud Platform Cockpit
 
 1. In your web browser, navigate to the [SAP Cloud Platform trial cockpit](https://cockpit.hanatrial.ondemand.com/).
-   ![](/../images/1.1.png)
+   ![](images/1.1.png)
 
 1. Navigate to the trial global account by clicking **Enter Your Trial Account**.
    1. If this is your first time accessing your trial account, you’ll have to configure your account by choosing a region.
