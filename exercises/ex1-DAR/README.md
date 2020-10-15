@@ -150,11 +150,11 @@ For the same reason, make sure to download your notebook once you are done with 
 workshop. The `mybinder.org service` will not keep a copy once your session expires.
 
 If the main link above does not work for you and the notebook is not launching
-even after five minutes, you can directly try one of the [following servers](https://binderhub.readthedocs.io/en/latest/federation/federation.html):
-
-* [Binderhub](https://gke.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
-* [OVH](https://ovh.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
-* [GESIS](https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
+even after five minutes, you can directly try one of the
+[following servers](https://binderhub.readthedocs.io/en/latest/federation/federation.html):
+[Binderhub](https://gke.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb),
+[OVH](https://ovh.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb),
+[GESIS](https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
 
 ##### Google Colab
 
