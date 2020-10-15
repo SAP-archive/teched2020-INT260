@@ -186,16 +186,24 @@ Inside of your Jupyter environment, click the "Upload" button.
 
 ![Screenshot Upload 1](images/upload-1.png)
 
-In the file selection dialog, select the notebook file. Double-check that the
-file name ends with `.ipynb`. If the file has a different extension, please change
-the file extension to `.ipynb`. Then click the second "Upload" button:
+In the file selection dialog, select the notebook file. Then click the second "Upload" button:
 
 ![Screenshot Upload 2](images/upload-2.png)
+
+Double-check that the file name ends with `.ipynb`. If the file has a different
+extension, please change the file extension to `.ipynb`. First, select the row
+containing the file and then click the "Rename" button. 
+
+![Screenshot Upload 3](images/upload-3.png)
+
+Change the file extension to `ipynb`:
+
+![Screenshot Upload 4](images/upload-4.png)
 
 After the file is uploaded, simply click the file name in the file listing to start the
 notebook:
 
-![Screenshot Upload 3](images/upload-3.png)
+![Screenshot Upload 5](images/upload-5.png)
 
 ## How to obtain support
 
