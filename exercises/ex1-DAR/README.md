@@ -1,6 +1,6 @@
 # INT260 - Data Classification with Python SDK and SAP AI Business Services
 
-## Exercise 2
+## Exercise 01
 
 ## Overview
 
@@ -25,11 +25,15 @@ If you already have a trial account,
 
 #### If you have no trial account
 
-See the tutorial
-["Get a Free Trial Account on SAP Cloud Platform"](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
-to learn how to create a Trial account.
+Go to the [SAP Cloud Platform Trial page](https://account.hanatrial.ondemand.com/)
+to create your trial account.
 
-Note that regions other than
+*If are participating in the workshop, you should already be able to login to this
+page and create your account. If you do not yet have a login, please see the tutorial
+["Get a Free Trial Account on SAP Cloud Platform"](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+to learn how to create a Trial account.*
+
+Regions other than
 **Europe (Frankfurt) - AWS** are currently not supported. For this reason, make sure
 to select the correct region while creating your trial account:
 
@@ -99,8 +103,8 @@ Please proceed to [Executing the Jupyter Notebook](#Executing-the-Jupyter-Notebo
 
 You can:
 
-* run [Jupter on your computer using Docker](#Running-Jupyter-in-Docker)
-* explore [other options via third-party offerings](#Other-options-for-Jupyter).
+* run [Jupyter on your computer using Docker](#Running-Jupyter-in-Docker)
+* explore [other cloud options via third-party offerings](#Other-options-for-Jupyter).
 
 #### Running Jupyter in Docker
 
@@ -128,11 +132,15 @@ internet. You can use any Jupiter Notebook environment of your choice.
 
 ##### MyBinder.org
 
+Using the mybinder.org service is completely voluntary and you are responsible
+for any information that you may add to mybinder.org. The reference to the mybinder.org
+service is not an endorsement of the mybinder.org service.
+
 The `mybinder.org` service does not require prior registration. 
 To launch the notebook, follow
 [this link](https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb).
 
-In our experience, it takes up to five minutes to launch the notebook. 
+It may take up to five minutes to launch the notebook. 
 
 Sessions on this free service can be terminated after a [brief period
 of inactivity](https://mybinder.readthedocs.io/en/latest/faq.html#how-long-will-my-binder-session-last).
@@ -148,21 +156,17 @@ even after five minutes, you can directly try one of the [following servers](htt
 * [OVH](https://ovh.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
 * [GESIS](https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb)
 
-Using the mybinder.org service is completely voluntary and you are responsible
-for any information that you may add to mybinder.org. The reference to the mybinder.org
-service is not an endorsement of the mybinder.org service.
-
 ##### Google Colab
+
+Using the Google Colab service is completely voluntary and you are responsible
+for any information that you may add to Google Colab. The reference to Google Colab in
+this document is not an endorsement of Google Colab. 
 
 To launch the notebook in Google Colab,
 [click here](https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb).
 
 Note that Google Colab requires you to log in. You will be subject
 to the terms and conditions and to the privacy policy of Google Colab.
-
-Using the Google Colab service is completely voluntary and you are responsible
-for any information that you may add to Google Colab. The reference to Google Colab in
-this document is not an endorsement of Google Colab. 
 
 ## Exercises
 
@@ -177,23 +181,6 @@ Right-click [this direct link](https://github.com/SAP-samples/teched2020-INT260/
 and select "Save As". Save the file to disk.
 
 ![Screenshot Save As](images/save_as.png)
-
-**As an alternative**, you can download from the command line:
-
-```shell script
-wget \
-  -O teched2020-INT260_Data_Attribute_Recommendation.ipynb \
-  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
-```
-
-If you receive a "command not found" error (i.e. on Windows), try curl:
-
-```shell script
-curl \
-  -L \
-  -o teched2020-INT260_Data_Attribute_Recommendation.ipynb \
-  https://github.com/SAP-samples/teched2020-INT260/raw/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
-```
 
 Inside of your Jupyter environment, click the "Upload" button.
 
@@ -214,7 +201,7 @@ notebook:
 
 Support for the content in this repository is available during the actual time of the
 online session for which this content has been designed. Otherwise, you may request
-support via the [Issues](../../issues) tab.
+support via the [Issues](../../../../issues) tab.
 
 ## License
 
