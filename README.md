@@ -8,6 +8,8 @@ This repository contains the material for the SAP TechEd 2020 session called INT
 
 This session introduces attendees to the Python Software Development Kit for utilizing the Data Attribute Recommendation and Service Ticket Intelligence services.
 
+Slide deck is availble [here](/INT260.pdf)
+
 ## Requirements
 
 **You will need** to have a valid SAP Cloud Platform trial account in the **Europe (Frankfurt) - AWS** region
