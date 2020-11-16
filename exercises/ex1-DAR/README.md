@@ -28,13 +28,13 @@ You now have successfully set up a trial account on SAP Cloud Platform
 in the **Europe (Frankfurt) - AWS** region.
 
 We will now set up a Jupyter environment to execute the notebook
-containing the exercises. There are two options: running the Notebook
+containing the exercises. There are two options: running the notebook
 locally or running it on a cloud service.
 
 #### Executing the Notebook directly in the browser
 
 The easiest way to get started with Jupyter is to launch the
-Notebook directly in your browser via mybinder.org via
+notebook directly in your browser via mybinder.org via
 [this link][mybinder].
 
 [mybinder]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
@@ -70,7 +70,7 @@ The remaining workshop content is located inside the notebook.
 
 #### Executing the Notebook locally
 
-If you prefer to run the Notebook locally, we have a separate set of instructions
+If you prefer to run the notebook locally, we have a separate set of instructions
 for a [Docker-based setup].
 
 [Docker-based setup]: ./running_docker_locally.md
