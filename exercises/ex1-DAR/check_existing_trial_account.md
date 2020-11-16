@@ -6,13 +6,14 @@ region.
 To confirm this, log in to your [Trial Account](https://cockpit.eu10.hana.ondemand.com/trial/)
 and inspect the list of subaccounts.
 
-You should have one subaccount where the **region** field is listed as
+You should have at least one subaccount where the **region** field is listed as
 **Europe (Frankfurt) - AWS** as shown below:
 
 ![SCP Subaccount Europe (Frankfurt) -  AWS](images/scp_subaccount_frankfurt.png)
 
-If you have a subaccount in the correct region, please continue
-to [Executing the Jupyter Notebook](./README.md#Executing-the-Jupyter-Notebook).
+If you have a subaccount in the correct region, please proceed
+to [Executing the Jupyter Notebook](./README.md#Executing-the-Jupyter-Notebook) and
+skip the remaining steps below.
 
 ##### Subaccount in region other than Frankfurt - AWS
 
