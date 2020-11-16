@@ -34,10 +34,9 @@ locally or running it on a cloud service.
 #### Executing the Notebook directly in the browser
 
 The easiest way to get started with Jupyter is to launch the
-notebook directly in your browser via mybinder.org via
-[this link][mybinder].
+notebook directly in your browser via [mybinder.org].
 
-[mybinder]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
+[mybinder.org]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
 
 It may take up to five minutes to launch the notebook. Sessions on this free service
 can be terminated after a [brief period of inactivity]. Make sure not to leave the
