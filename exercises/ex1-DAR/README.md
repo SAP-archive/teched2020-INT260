@@ -47,16 +47,15 @@ Notebook directly in your browser via mybinder.org via
 [mybinder]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
 
 It may take up to five minutes to launch the notebook. Sessions on this free service
-can be terminated after a [brief period of inactivity]. It is best not to leave the
-browser window for long periods of time. Make sure to download your notebook once you
-are done with the workshop. The mybinder.org service will not keep a copy once your
-session expires.
+can be terminated after a [brief period of inactivity]. Make sure not to leave the
+browser window for long periods of time and download your notebook once you
+are done with the workshop for safekeeping.
 
 [brief period of inactivity]: https://mybinder.readthedocs.io/en/latest/faq.html#how-long-will-my-binder-session-last
 
 If the main link above does not work for you and the notebook is not launching
 even after five minutes, you can directly try one of the
-[following servers](https://binderhub.readthedocs.io/en/latest/federation/federation.html):
+[fallback options](https://binderhub.readthedocs.io/en/latest/federation/federation.html):
 [Binderhub], [OVH] or [GESIS].
 
 [Binderhub]: https://gke.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
