@@ -31,13 +31,6 @@ We will now set up a Jupyter environment to execute the notebook
 containing the exercises. There are two options: running the Notebook
 locally or running it on a cloud service.
 
-#### Executing the Notebook locally
-
-If you prefer to run the Notebook locally, we have a separate set of instructions
-for a [Docker-based setup].
-
-[Docker-based setup]: ./running_docker_locally.md
-
 #### Executing the Notebook directly in the browser
 
 The easiest way to get started with Jupyter is to launch the
@@ -74,6 +67,13 @@ to the terms and conditions and to the privacy policy of the respective offering
 
 Once you have launched the notebook, you are all set.
 The remaining workshop content is located inside the notebook.
+
+#### Executing the Notebook locally
+
+If you prefer to run the Notebook locally, we have a separate set of instructions
+for a [Docker-based setup].
+
+[Docker-based setup]: ./running_docker_locally.md
 
 ## How to obtain support
 
