@@ -28,14 +28,17 @@ You now have successfully set up a trial account on SAP Cloud Platform
 in the **Europe (Frankfurt) - AWS** region.
 
 We will now set up a Jupyter environment to execute the notebook
-containing the exercises.
+containing the exercises. There are two options: running the Notebook
+locally or running it on a cloud service.
 
-There are two options: to run the Notebook locally or to run it on a cloud service.
+#### Executing the Notebook locally
 
 If you prefer to run the Notebook locally, we have a separate set of instructions
 for a [Docker-based setup].
 
 [Docker-based setup]: ./running_docker_locally.md
+
+#### Executing the Notebook directly in the browser
 
 The easiest way to get started with Jupyter is to launch the
 Notebook directly in your browser via mybinder.org via
@@ -43,14 +46,13 @@ Notebook directly in your browser via mybinder.org via
 
 [mybinder]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
 
-It may take up to five minutes to launch the notebook. 
+It may take up to five minutes to launch the notebook. Sessions on this free service
+can be terminated after a [brief period of inactivity]. It is best not to leave the
+browser window for long periods of time. Make sure to download your notebook once you
+are done with the workshop. The mybinder.org service will not keep a copy once your
+session expires.
 
-Sessions on this free service can be terminated after a [brief period
-of inactivity](https://mybinder.readthedocs.io/en/latest/faq.html#how-long-will-my-binder-session-last).
-It is best not to leave the browser window for long periods of time.
-
-Make sure to download your notebook once you are done with the
-workshop. The mybinder.org service will not keep a copy once your session expires.
+[brief period of inactivity]: https://mybinder.readthedocs.io/en/latest/faq.html#how-long-will-my-binder-session-last
 
 If the main link above does not work for you and the notebook is not launching
 even after five minutes, you can directly try one of the
