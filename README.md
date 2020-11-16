@@ -21,7 +21,7 @@ At the beginning of the workshop, we will briefly walk through both requirements
 
 ## Exercises
 
-- [Exercise 1 - Data Attribute Recommendation](exercises/ex1-DAR)
+- [Exercise 1 - Data Attribute Recommendation](exercises/ex1-DAR/README.md)
 - [Exercise 2 - Service Ticket Intelligence](exercises/ex2-STI)
     - [Exercise 2.1 - Provision instance for Service Ticket Intelligence](exercises/ex2-STI/ex2.1)
     - [Exercise 2.2 - Explore and hands-on with Service Ticket Intelligences' classification scenario](exercises/ex2-STI/ex2.2)
