@@ -58,11 +58,11 @@ If you prefer, the notebook is also available on [Google Colab] after prior logi
 
 [Google Colab]: https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
 
-*Using the mybinder.org service or the Google Colab service is completely voluntary
+**Using the mybinder.org service or the Google Colab service is completely voluntary
 and you are responsible for any information that you may add to mybinder.org. The
 reference to the mybinder.org and Google Colab services are not an endorsement of
 the respective offerings. You will be subject
-to the terms and conditions and to the privacy policy of the respective offerings.*
+to the terms and conditions and to the privacy policy of the respective offerings.**
 
 Once you have launched the notebook, you are all set.
 The remaining workshop content is located inside the notebook.
