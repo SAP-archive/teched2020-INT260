@@ -8,17 +8,20 @@ This repository contains the material for the SAP TechEd 2020 session called INT
 
 This session introduces attendees to the Python Software Development Kit for utilizing the Data Attribute Recommendation and Service Ticket Intelligence services.
 
-Slide deck is available [here](/INT260.pdf)
+Slide deck is available [here](/INT260.pdf).
 
 ## Requirements
 
 **You will need** to have a valid SAP Cloud Platform trial account in the **Europe (Frankfurt) - AWS** region
 
-**You will need** an environment where you can run Python code. This workshop is available as a Jupyter notebook. We recommend that you use a Jupyter environment to load the notebook and execute the exercises.
+**You will need** an environment where you can run Python code. This workshop is available as a Jupyter notebook.
+We recommend that you use a Jupyter environment to load the notebook and execute the exercises.
+
+At the beginning of the workshop, we will briefly walk through both requirements.
 
 ## Exercises
 
-- [Exercise 1 - Data Attribute Recommendation](exercises/ex1-DAR)
+- [Exercise 1 - Data Attribute Recommendation](exercises/ex1-DAR/README.md)
 - [Exercise 2 - Service Ticket Intelligence](exercises/ex2-STI)
     - [Exercise 2.1 - Provision instance for Service Ticket Intelligence](exercises/ex2-STI/ex2.1)
     - [Exercise 2.2 - Explore and hands-on with Service Ticket Intelligences' classification scenario](exercises/ex2-STI/ex2.2)
