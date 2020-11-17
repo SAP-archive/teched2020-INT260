@@ -22,7 +22,7 @@ Binder is a web application that allows users to create sharable, interactive, r
 
 There are no pre-requisites and no local setup required however, this may take several minutes for the server to launch.
 
-1. Launch Jupyter server with [Binder](https://mybinder.org/v2/gh/SAP-samples/service-ticket-intelligence-jupyter-notebook-sample/master). 
+1. Launch Jupyter server with [Binder](https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=%2Fexercises%2Fex2-STI%2Fex2.2%2Fnotebook). 
    ![](../images/2.1.png)
    
 1. Skip to the [following step](#Add-credentials) once the server is launched.
