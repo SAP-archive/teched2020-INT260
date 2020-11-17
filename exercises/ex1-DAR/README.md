@@ -17,10 +17,10 @@ To get started, we will first prepare two prerequisites:
 ### SAP Cloud Platform trial account
 
 If you have no trial account,
-[you will need to create one first](./create_trial_account.md).
+[you will need to create one first](markdown/create_trial_account.md).
 
 If you already have a trial account,
-[please check if it is setup correctly](./check_existing_trial_account.md).
+[please check if it is setup correctly](markdown/check_existing_trial_account.md).
 
 ### Executing the Jupyter Notebook
 
@@ -72,7 +72,7 @@ The remaining workshop content is located inside the notebook.
 If you prefer to run the notebook locally, we have a separate set of instructions
 for a [Docker-based setup].
 
-[Docker-based setup]: ./running_docker_locally.md
+[Docker-based setup]: markdown/running_docker_locally.md
 
 ## How to obtain support
 

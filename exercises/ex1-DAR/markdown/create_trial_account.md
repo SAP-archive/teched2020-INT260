@@ -13,7 +13,7 @@ Regions other than
 **Europe (Frankfurt) - AWS** are currently not supported. For this reason, make sure
 to select the correct region while creating your trial account:
 
-![SCP Trial Select Region](images/scp_trial_select_region.png)
+![SCP Trial Select Region](../images/scp_trial_select_region.png)
 
 Once you have successfully created your trial account, please proceed
-to [Executing the Jupyter Notebook](./README.md#Executing-the-Jupyter-Notebook).
+to [Executing the Jupyter Notebook](../README.md#Executing-the-Jupyter-Notebook).
