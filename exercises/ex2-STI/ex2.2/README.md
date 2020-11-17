@@ -31,7 +31,7 @@ There are no pre-requisites and no local setup required however, this may take s
 ### Launch Juypter Notebooks with locally installed Jupyter Server (Optional)
 Alternatively, if you already have Jupyter server installed on your local and you wish to use it, please see the following steps.
 
-1. Clone or download [SAP-samples/service-ticket-intelligence-jupyter-notebook](https://github.com/SAP-samples/service-ticket-intelligence-jupyter-notebook) from the Github repository.
+1. Clone or download [SAP-samples/teched2020-INT260](https://github.com/SAP-samples/teched2020-INT260) from the Github repository.
    ![](../images/2.3.png)
 
 1. Start jupyter server by executing the command `jupyter notebook` in your terminal.
