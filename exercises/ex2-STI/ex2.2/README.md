@@ -34,7 +34,9 @@ Alternatively, if you already have Jupyter server installed on your local and yo
 1. Clone or download [SAP-samples/teched2020-INT260](https://github.com/SAP-samples/teched2020-INT260) from the Github repository.
    ![](../images/2.3.png)
 
-1. Start jupyter server by executing the command `jupyter notebook` in your terminal.
+1. Lanuch terminal and navigate to `/exercises/ex2-STI/ex2.2/notebook`.
+
+1. Start jupyter server by executing the command `jupyter notebook`.
 
 1. Proceed with the [next step](#Add-credentials) once the server is launched.
    ![](../images/2.2.png)
