@@ -1,5 +1,5 @@
 
-# Creating a new SAP Cloud Platform Trial page
+# Creating a new SAP Cloud Platform Trial account
 
 Go to the [SAP Cloud Platform Trial page](https://account.hanatrial.ondemand.com/)
 to create your trial account.
