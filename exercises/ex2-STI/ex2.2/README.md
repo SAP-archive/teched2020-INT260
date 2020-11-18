@@ -13,7 +13,7 @@ Service Ticket Intelligence offers a range of ticketing classification features:
 
 To explore what Service Ticket Intelligence has to offer, we will be making use of Jupyter Notebooks for this hands-on. Jupyter Notebooks are interactive playgrounds to code and are often used in data science to explore datasets.
 
-Data used for training in this scenario is in the context of complaints from the finance industry.
+Data used for training in this scenario is in the context of service requests in the travel industry.
 
 ## Steps
 
