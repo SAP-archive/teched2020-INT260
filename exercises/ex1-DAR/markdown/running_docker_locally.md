@@ -1,5 +1,8 @@
 # Running Jupyter in Docker
 
+To run Jupyter in Docker, make sure that you have
+[Docker installed](https://www.docker.com/get-started).
+
 Docker is a great way to quickly get an environment up and running.
 For this workshop, we recommend the `jupyter/scipy-notebook` image.
 
