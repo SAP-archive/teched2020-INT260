@@ -38,4 +38,4 @@ You have successfully used the booster Set up account for Service Ticket Intelli
 1. Make a local copy of the service key. 
    ![](../images/1.6.png)
 
-If you face any issue with the booster setup for **Service Ticket Intelligence***, you can alternatively follow the steps in [Create Service Instance for Service Ticket Intelligence](https://developers.sap.com/tutorials/cp-aibus-sti-service-instance.html) to create a service key for Service Ticket Intelligence manually.
+If you face any issue with the booster setup for **Service Ticket Intelligence**, you can alternatively follow the steps in [Create Service Instance for Service Ticket Intelligence](https://developers.sap.com/tutorials/cp-aibus-sti-service-instance.html) to create a service key for Service Ticket Intelligence manually.
