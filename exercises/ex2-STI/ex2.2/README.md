@@ -42,28 +42,31 @@ Alternatively, if you already have Jupyter server installed on your local and yo
    ![](../images/2.2.png)
  
 ### Add credentials 
-1. In jupyter server, open the `sti_config.ini` file.
+1. In jupyter server, upload the `default_key.json` credentials key file by clicking **Upload** and selecting the correct file. 
    ![](../images/2.4.png)
 
-1. Enter the `sti_service_url`, `uaa.url`, `uaa.clientid` and `uaa.clientsecret` from the previous excercise, save the file and close the window.
+1. Confirm selection and click **Upload** 
    ![](../images/2.5.png)
+   
+1. Verify credentials key file uploaded 
+   ![](../images/2.6.png)
 
 ### Open Classification Scenario in Jupyter notebook
 1. In jupyter server, navigate inside the `Classification` folder.
-   ![](../images/2.6.png)
+   ![](../images/2.7.png)
 
 1. Open the `Classification_demo.ipynb` Jupyter notebook.
-   ![](../images/2.7.png)
+   ![](../images/2.8.png)
    
 1. Notebooks contain a number of cells in a sequence whereas each cell mainly contains text or code but can also output diagrams and graphics. If cells contain code they can be executed.
 
 1. The numbers in front of a cell tell the number of executed cells in this notebook. While the cell is being executed a `*` is printed instead of a number so you can tell if the operation is still running or already finished.
 
 1. Once you click into a cell, it is marked with a border so you can tell at which position in the notebook you are.
-   ![](../images/2.8.png)
+   ![](../images/2.9.png)
    
 1. A cell can be executed by clicking the play button at the top. If you execute code then there will be additional output printed below the cell.
-   ![](../images/2.9.png)
+   ![](../images/2.10.png)
 
 ## References
 More info on jupyter notebooks [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
