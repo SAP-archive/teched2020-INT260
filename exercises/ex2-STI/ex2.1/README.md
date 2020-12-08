@@ -27,15 +27,18 @@ Now, you will use the Set up account for Service Ticket Intelligence booster to 
    ![](../images/1.4.png)
    
 1. Click **Start**
+   ![](../images/1.5.png)
+
    1. If you have more than one subaccount, the booster will choose automatically the correct subaccount and space, but this will require that you click Next twice and Finish once, before being able to see the Success dialog box.
+      ![](../images/1.6.png)
 
 ### Get Service Key
 You have successfully used the booster Set up account for Service Ticket Intelligence to create a service key for Service Ticket Intelligence.
 
 1. Click Download Service Key.
-   ![](../images/1.5.png)
-
-1. Make a local copy of the service key. 
-   ![](../images/1.6.png)
+   ![](../images/1.7.png)
+   
+1. Make a local copy of the service key `default_key.json`.
+   ![](../images/1.8.png)
 
 If you face any issue with the booster setup for **Service Ticket Intelligence**, you can alternatively follow the steps in [Create Service Instance for Service Ticket Intelligence](https://developers.sap.com/tutorials/cp-aibus-sti-service-instance.html) to create a service key for Service Ticket Intelligence manually.
