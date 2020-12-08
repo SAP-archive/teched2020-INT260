@@ -1,6 +1,6 @@
 # Exercise 2.1 - Provision instance for Service Ticket Intelligence
 
-In this part of the exercise, we will see how to create a service instance of Service Ticket Intelligence in SAP Cloud Platform Cockpit to obtain the `sti_service_url`, `uaa.url`, `client_id` and `client_secret` using the booster feature in SAP CP Cloud Platform Cockpit. These will then be used to authorize and communicate with Service Ticket Intelligence. 
+In this part of the exercise, we will create a service instance and retrieve credentials of Service Ticket Intelligence in SAP Cloud Platform Cockpit. Credentials are required to authorize and communicate with Service Ticket Intelligence. 
 
 ## Steps
 
@@ -16,7 +16,7 @@ In this part of the exercise, we will see how to create a service instance of Se
       ![](../images/1.2.png)
 
 ### Run Booster
-To try out Service Ticket Intelligence, you need to make sure that your account is properly configured. SAP Cloud Platform creates interactive guided boosters to automate trial cockpit steps, so users can save time when trying out the services.
+SAP Cloud Platform creates interactive guided boosters to automate trial cockpit steps, so users can save time when trying out the services.
 
 Now, you will use the Set up account for Service Ticket Intelligence booster to automatically assign entitlements, update your subaccount, create a service instance and the associated service key for Service Ticket Intelligence.
 
