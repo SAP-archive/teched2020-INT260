@@ -1,4 +1,4 @@
-# Exercise 2 - Explore and hands-on with Service Ticket Intelligences' classification scenario 
+# Exercise 2.2 - Explore and hands-on with Service Ticket Intelligences' classification scenario 
 
 ## Details
 Once a service ticket arrives, the machine learning algorithm automatically categorizes it into a certain category with a certain confidence level. Also, the support team assigned and the level of urgency is determined based on the input of the customer request. The system then decides where the tickets need to be routed. As such, a list of tickets is assigned to different functional teams and the customer service agents can immediately start with the most urgent ones.
