@@ -36,7 +36,7 @@ locally or running it on a cloud service.
 The easiest way to get started with Jupyter is to launch the
 notebook directly in your browser via [mybinder.org].
 
-[mybinder.org]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
+[mybinder.org]: https://mybinder.org/v2/gh/SAP-samples/teched2020-INT260/main?filepath=exercises%2Fex1-DAR%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
 
 It may take up to five minutes to launch the notebook. Sessions on this free service
 can be terminated after a [10 minutes of inactivity]. Make sure not to leave the
@@ -50,13 +50,13 @@ even after five minutes, you can directly try one of the
 [fallback options](https://binderhub.readthedocs.io/en/latest/federation/federation.html):
 [Binderhub], [OVH] or [GESIS].
 
-[Binderhub]: https://gke.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
-[OVH]: https://ovh.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
-[GESIS]: https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2020-INT260/master?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
+[Binderhub]: https://gke.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/main?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
+[OVH]: https://ovh.mybinder.org/v2/gh/SAP-samples/teched2020-INT260/main?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
+[GESIS]: https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2020-INT260/main?filepath=exercises%2Fteched2020-INT260_Data_Attribute_Recommendation.ipynb
 
 If you prefer, the notebook is also available on [Google Colab] after prior login.
 
-[Google Colab]: https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/master/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
+[Google Colab]: https://colab.research.google.com/github/SAP-samples/teched2020-INT260/blob/main/exercises/ex1-DAR/teched2020-INT260_Data_Attribute_Recommendation.ipynb
 
 **Using the mybinder.org service or the Google Colab service is completely voluntary
 and you are responsible for any information that you may add to mybinder.org. The
